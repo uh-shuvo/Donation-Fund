@@ -1,0 +1,11 @@
+body {}
+
+.top-donation {
+    background-image: linear-gradient(90deg, black, rgba(0, 0, 0, 0)100%), url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.top-help {
+    text-align: center;
+}
