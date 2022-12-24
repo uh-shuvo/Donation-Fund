@@ -1,11 +1,33 @@
 body {}
 
 .top-donation {
-    background-image: linear-gradient(90deg, black, rgba(0, 0, 0, 0)100%), url(images/donation13.jpg);
+    background-image: linear-gradient(to top, #1a1a1a, rgba(0, 0, 0, 0)100%), url(images/donation13.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    width: 100%;
+    height: 600px;
 }
 
 .top-help {
     text-align: center;
+    padding-top: 200px;
+}
+
+.flooded {
+    font-size: 50px;
+    color: white;
+}
+
+.flooded-p {
+    color: white;
+    margin-bottom: 30px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 25px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
 }
