@@ -31,3 +31,80 @@ body {}
     color: white;
     font-weight: bold;
 }
+
+.donate-today {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.donate-h1 {
+    font-size: 40px;
+}
+
+.donate-p {
+    margin-bottom: 50px;
+    font-size: 15px;
+    color: #707070;
+}
+
+.donation {
+    text-align: center;
+}
+
+.donate-h1 {
+    font-size: 40px;
+}
+
+.donate-p {
+    color: #707070;
+    font-size: 18px;
+}
+
+.flex-box {
+    display: flex;
+    justify-content: center;
+}
+
+.half-width {
+    width: 10%;
+    height: 100px;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 5px;
+    margin-left: 30px;
+
+}
+
+.half-width h1 {
+    text-align: center;
+    padding-top: 13px;
+    font-size: 30px;
+    color: #707070;
+}
+
+#extra-id {
+    border: 2px solid orangered;
+    background-color: #ffeeee;
+}
+
+.extra-color {
+    color: orangered;
+}
+
+.line {
+    border: 1px solid black;
+}
+
+.others {
+    text-align: center;
+}
+
+.taka {
+    color: #707070;
+}
+
+.line {
+    margin-left: 265px;
+    margin-right: 230px;
+    margin-bottom: 30px;
+    color: #707070;
+}
