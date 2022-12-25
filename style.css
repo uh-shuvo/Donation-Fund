@@ -120,4 +120,17 @@ body {}
 
 .plan-p {
     font-size: 18px;
+    color: #707070;
+}
+
+.donation-part {
+    display: flex;
+}
+
+.box-card-1 {
+    width: 30%;
+    background-color: #edf5f6;
+    height: 200px;
+    border-radius: 7px;
+    margin-left: 20px;
 }
