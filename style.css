@@ -178,3 +178,75 @@ body {}
 .world-h1 {
     font-size: 50px;
 }
+
+.updates {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.get-h1 {
+    font-size: 50px;
+}
+
+.get-p {
+    font-size: 18px;
+    color: #707070;
+}
+
+.form-section {
+    background-color: #fff4d6;
+    width: 70%;
+    height: 120px;
+    margin-left: 210px;
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+
+.inp-form {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.inp-email {
+    border: none;
+    background: gray;
+    height: 28px;
+    width: 45%;
+    border-radius: 4px;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.inp-submit {
+    border: none;
+    background: gray;
+    height: 30px;
+    width: 16%;
+    border-radius: 4px;
+    background-image: linear-gradient(orange, tomato);
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+
+}
+
+footer {
+    margin-top: 50px;
+    background-color: black;
+    height: 200px;
+}
+
+.footer-all {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.footer-h1 {
+    color: coral;
+}
+
+.footer-h5 {
+    color: white;
+}
