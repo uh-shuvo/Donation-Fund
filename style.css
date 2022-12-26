@@ -121,6 +121,7 @@ body {}
 .plan-p {
     font-size: 18px;
     color: #707070;
+    margin-bottom: 40px;
 }
 
 .donation-main-part {
@@ -161,4 +162,19 @@ body {}
 
 .common-icon {
     font-size: 40px;
+}
+
+.world-people {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.people-half {
+    display: flex;
+    margin-left: 10%;
+    margin-right: 6%;
+}
+
+.world-h1 {
+    font-size: 50px;
 }
